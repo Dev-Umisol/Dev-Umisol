@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-Umisol
-- 👀 I’m interested in AI/ML 
+- 👀 I’m interested in Software Engineer | AI/ML 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me https://devdestinportfolio.vercel.app/ or destin.nguyen98@gmail.com
 <!---
