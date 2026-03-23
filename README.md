@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Who I Am
 
-I'm a B.S. Information Technology graduate from UCF (2024) on a self-driven Python journey — building real projects that push me to learn something new every time. I started with conditionals and functions and have worked my way up to data structures, algorithms, OOP design patterns, and abstraction. Every project in my repos has a story behind it.
+I'm a B.S. Information Technology graduate from UCF (2024) on a self-driven Python journey, building real projects that push me to learn something new every time. I started with conditionals and functions and have worked my way up to data structures, algorithms, OOP design patterns, and abstraction. Every project in my repos has a story behind it.
 
-When I'm not coding, I'm leading shifts at Starbucks — which, honestly, has taught me just as much about staying calm under pressure and communicating clearly as any project has.
+When I'm not coding, I'm leading shifts at Starbucks, which, honestly, has taught me just as much about staying calm under pressure and communicating clearly as any project has.
 
 ---
 
@@ -47,7 +47,7 @@ I treat every project like a chapter. Here's the arc so far:
 | 07 | 📧 Email Simulator | Multi-class OOP |
 | 08 | 🏥 Medical Data Validator | Data validation & regex |
 | 09 | 💼 Salary Tracker | Properties, getters/setters & exceptions |
-| 10 | 🎮 Game Character | Clamping & read-only properties |
+| 10 | 🎮 Game Character | Clamping & read only properties |
 | 11 | 🎬 Media Catalogue | Inheritance & custom exceptions |
 | 12 | 💡 Advanced Discount Calculator | Abstraction & Strategy design pattern |
 | 13 | 🕹️ Grid Player | ABC, random movement & 2D coordinates |
@@ -56,7 +56,7 @@ I treat every project like a chapter. Here's the arc so far:
 | 16 | #️⃣ Hash Table | Hashing, collisions & chaining |
 | 17 | 🔍 Binary Search | O(log n) algorithms |
 | 18 | √ Square Root Bisection | Numerical computing & bisection method |
-| 19 | 🔀 Merge Sort | Recursion & divide-and-conquer |
+| 19 | 🔀 Merge Sort | Recursion & divide and conquer |
 
 ---
 
