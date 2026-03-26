@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Who I Am
 
-I'm a B.S. Information Technology graduate from UCF (2024) on a self-driven Python journey, building real projects that push me to learn something new every time. I started with conditionals and functions and have worked my way up to data structures, algorithms, OOP design patterns, and abstraction. Every project in my repos has a story behind it.
+I'm a B.S. Information Technology graduate from UCF (2024) on a self driven Python journey, building real projects that push me to learn something new every time. I started with conditionals and functions and have worked my way up to data structures, algorithms, OOP design patterns, and abstraction. Every repo in my profile has a story behind it.
 
-When I'm not coding, I'm leading shifts at Starbucks, which, honestly, has taught me just as much about staying calm under pressure and communicating clearly as any project has.
+When I'm not coding, I'm leading shifts at Starbucks, which has taught me just as much about staying calm under pressure and communicating clearly as any project has.
 
 ---
 
@@ -34,29 +34,17 @@ When I'm not coding, I'm leading shifts at Starbucks, which, honestly, has taugh
 
 ## 🐍 My Python Journey
 
-I treat every project like a chapter. Here's the arc so far:
+I've built 23 projects covering the full arc from beginner to intermediate Python. Here are some highlights, check my repos for the full collection.
 
-| # | Project | What I Was Learning |
-|---|---|---|
-| 01 | 🗺️ Travel Planner | Conditionals & logical operators |
-| 02 | 💸 Discount Calculator | Input validation & functions |
-| 03 | ⚔️ RPG Character Creator | String manipulation & formatting |
-| 04 | 📚 ISBN Validator | Reading & debugging existing code |
-| 05 | ⚙️ Config Manager | Dictionaries & CRUD operations |
-| 06 | 💰 Budget App | Single-class OOP |
-| 07 | 📧 Email Simulator | Multi-class OOP |
-| 08 | 🏥 Medical Data Validator | Data validation & regex |
-| 09 | 💼 Salary Tracker | Properties, getters/setters & exceptions |
-| 10 | 🎮 Game Character | Clamping & read only properties |
-| 11 | 🎬 Media Catalogue | Inheritance & custom exceptions |
-| 12 | 💡 Advanced Discount Calculator | Abstraction & Strategy design pattern |
-| 13 | 🕹️ Grid Player | ABC, random movement & 2D coordinates |
-| 14 | 📐 Rectangle & Square | Method overriding & `math` module |
-| 15 | 🔗 Linked List | Data structures & pointer-based thinking |
-| 16 | #️⃣ Hash Table | Hashing, collisions & chaining |
-| 17 | 🔍 Binary Search | O(log n) algorithms |
-| 18 | √ Square Root Bisection | Numerical computing & bisection method |
-| 19 | 🔀 Merge Sort | Recursion & divide and conquer |
+| Project | Concepts |
+|---|---|
+| 🏥 Medical Data Validator | Regex, dictionary unpacking, data validation |
+| 📧 Email Simulator | Multi class OOP, datetime, 1 based indexing |
+| 💡 Advanced Discount Calculator | Abstraction, Strategy design pattern, type hints |
+| 🎬 Media Catalogue | Inheritance, custom exceptions, list comprehensions |
+| #️⃣ Hash Table | Hashing, collision handling, nested dictionaries |
+| 🔀 Merge Sort | Recursion, divide and conquer, in-place sorting |
+| 🗼 Tower of Hanoi | Recursion, nested functions, nonlocal state |
 
 ---
 
@@ -64,7 +52,7 @@ I treat every project like a chapter. Here's the arc so far:
 
 - 🔲 Land my first role as a Python Developer or Junior Software Engineer
 - 🔲 Complete the freeCodeCamp Scientific Computing with Python certification
-- 🔲 Build a data-focused project using Pandas and NumPy
+- 🔲 Build a data focused project using Pandas and NumPy
 - 🔲 Explore machine learning with Scikit-Learn and TensorFlow
 - 🔲 Start contributing to open source
 
