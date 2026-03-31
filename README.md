@@ -63,7 +63,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 - **Tower of Hanoi** - Recursive solver using nested functions and nonlocal state; final certification project
 - **Budget App** - Class-based ledger system with terminal bar chart generation
 - **Polygon Area Calculator** - Rectangle/Square inheritance with method overriding and geometry methods
-- **Build a Hash Table** -
+- **Build a Hash Table** - Implementation of a hash table built from scratch, with a custom hash function, collision handling via chaining, and add, remove, and lookup operations.
 - **User Configuration Manual** -
 
 > 📂 Every project includes a detailed README covering what was built and what was learned.
