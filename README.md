@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Destin 👋
+# Destin Nguyen
 
-### Python Developer · UCF Graduate · Always Building
+### Python Developer · B.S. Information Technology · UCF 2024
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devdestinportfolio.vercel.app-3776AB?style=for-the-badge&logo=vercel&logoColor=white)](https://devdestinportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3776AB?style=for-the-badge&logo=vercel&logoColor=white)](https://devdestinportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-destin.nguyen98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destin.nguyen98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/destin-nguyen-94b341143/)
 
@@ -12,66 +12,86 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## About
 
-I'm a B.S. Information Technology graduate from UCF (2024) on a self driven Python journey, building real projects that push me to learn something new every time. I started with conditionals and functions and have worked my way up to data structures, algorithms, OOP design patterns, and abstraction. Every repo in my profile has a story behind it.
+Python Developer with a B.S. in Information Technology from the University of Central Florida (2024). Completed the **freeCodeCamp Scientific Computing with Python** certification and built **28 Python projects** independently, covering object-oriented programming, data structures, algorithms, graph theory, and software design patterns.
 
-When I'm not coding, I'm leading shifts at Starbucks, which has taught me just as much about staying calm under pressure and communicating clearly as any project has.
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Libraries:** Pandas · NumPy · Scikit-Learn · TensorFlow
+Actively seeking a **Junior Python Developer** or **Junior Software Engineer** role.
 
 ---
 
-## 🐍 My Python Journey
+## Technical Skills
 
-I've built 23 projects covering the full arc from beginner to intermediate Python. Here are some highlights, check my repos for the full collection.
+**Languages:** Python
 
-| Project | Concepts |
-|---|---|
-| 🏥 Medical Data Validator | Regex, dictionary unpacking, data validation |
-| 📧 Email Simulator | Multi class OOP, datetime, 1 based indexing |
-| 💡 Advanced Discount Calculator | Abstraction, Strategy design pattern, type hints |
-| 🎬 Media Catalogue | Inheritance, custom exceptions, list comprehensions |
-| #️⃣ Hash Table | Hashing, collision handling, nested dictionaries |
-| 🔀 Merge Sort | Recursion, divide and conquer, in-place sorting |
-| 🗼 Tower of Hanoi | Recursion, nested functions, nonlocal state |
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, re, datetime, math, abc
 
----
+**Tools:** Git, GitHub, VS Code, Unix/Linux CLI
 
-## 🎯 Goals
-
-- 🔲 Land my first role as a Python Developer or Junior Software Engineer
-- 🔲 Complete the freeCodeCamp Scientific Computing with Python certification
-- 🔲 Build a data focused project using Pandas and NumPy
-- 🔲 Explore machine learning with Scikit-Learn and TensorFlow
-- 🔲 Start contributing to open source
+**Core Competencies:**
+- Object-Oriented Programming (OOP)
+- Data Structures - Linked Lists, Hash Tables, Adjacency Matrices
+- Algorithms - Sorting (Merge, Quick, Selection), Searching (Binary, Dijkstra's), Graph Traversal (DFS, BFS)
+- Software Design Patterns - Strategy Pattern, Abstract Base Classes (ABC)
+- Data Validation, Regular Expressions (Regex)
+- Recursion, Backtracking, Constraint Satisfaction
+- Technical Documentation, Clean Code
 
 ---
 
-## 📫 Let's Connect
+## Projects
+
+28 Python projects built independently. Selected highlights:
+
+**Graph Theory & Algorithms**
+- **N-Queens Solver** - DFS + backtracking constraint satisfaction, finds all valid solutions for any board size (92 solutions for n=8)
+- **Dijkstra's Shortest Path** - Weighted graph traversal using an adjacency matrix, returns shortest distance and full path between any two nodes
+- **Depth First Search** - Iterative LIFO stack-based graph traversal with disconnected graph handling
+- **Merge Sort / Quick Sort / Selection Sort** - Three sorting algorithms implemented from scratch with Big O analysis
+- **Binary Search** - O(log n) search with path tracking to visualize how the algorithm narrows to the target
+
+**Object-Oriented Programming & Design Patterns**
+- **Advanced Discount Calculator** - Strategy design pattern with ABC abstraction and type hints; three interchangeable discount strategies compete for the best price
+- **Media Catalogue** - Multi-class inheritance system with a custom exception class carrying structured error context
+- **Salary Tracker** - @property decorators, getters/setters, and exception-based promotion enforcement
+
+**Data Structures**
+- **Hash Table** — Built from scratch with Unicode hashing and chaining for collision resolution
+- **Linked List** — Pointer-based node traversal with add, remove, and traversal operations
+
+**Certification Projects (freeCodeCamp)**
+- **Tower of Hanoi** - Recursive solver using nested functions and nonlocal state; final certification project
+- **Budget App** - Class-based ledger system with terminal bar chart generation
+- **Polygon Area Calculator** - Rectangle/Square inheritance with method overriding and geometry methods
+- **Build a Hash Table** -
+- **User Configuration Manual** -
+
+> 📂 Every project includes a detailed README covering what was built and what was learned.
+
+---
+
+## Education & Certifications
+
+**B.S. Information Technology** — University of Central Florida | May 2024
+
+**Scientific Computing with Python** — freeCodeCamp Certification | 2026
+
+---
+
+## Currently Looking For
+
+- Junior Python Developer
+- Junior Software Engineer
+- Entry-Level Backend Developer
+
+Open to remote, hybrid, or on-site roles
+
+---
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3776AB?style=for-the-badge&logo=vercel&logoColor=white)](https://devdestinportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destin.nguyen98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/destin-nguyen-94b341143/)
-
-</div>
-
----
-
-<div align="center">
-
-*Always learning. Always building. 🐍*
 
 </div>
