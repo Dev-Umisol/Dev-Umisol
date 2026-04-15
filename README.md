@@ -24,7 +24,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 **Languages:** Python
 
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, re, datetime, math, abc
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, fastAPI, Pydantic, SQLAlchemy
 
 **Tools:** Git, GitHub, VS Code, Unix/Linux CLI
 
