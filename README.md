@@ -24,7 +24,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 **Languages:** Python
 
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, fastAPI, Pydantic, SQLAlchemy
+**Libraries & Frameworks:** fastAPI, SQLAlchemy, JWT Auth, Alembic, SQLite
 
 **Tools:** Git, GitHub, VS Code, Unix/Linux CLI
 
@@ -74,7 +74,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 **B.S. Information Technology** — University of Central Florida | May 2024
 
-**Scientific Computing with Python** — freeCodeCamp Certification | 2026
+**Scientific Computing with Python** — freeCodeCamp Certification | May 2026
 
 ---
 
