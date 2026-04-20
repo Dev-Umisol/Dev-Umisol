@@ -1,6 +1,6 @@
 <div align="center">
-
-# Destin Nguyen
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=155BF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey!+I'm+Destin+Nguyen;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 ### Python Developer · B.S. Information Technology · UCF 2024
 
@@ -12,13 +12,31 @@
 
 ---
 
+<div align="center">
+
 ## About
+
+</div>
 
 Python Developer with a B.S. in Information Technology from the University of Central Florida (2024). Completed the **freeCodeCamp Scientific Computing with Python** certification and built **28 Python projects** independently, covering object-oriented programming, data structures, algorithms, graph theory, and software design patterns.
 
 Actively seeking a **Junior Python Developer** or **Junior Software Engineer** role.
 
 ---
+
+<div align="center">
+
+# Stats
+
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Umisol&theme=catppuccin-mocha)](https://git.io/streak-stats)
+![Destin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Umisol&show_icons=true&theme=catppuccin_mocha)
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Umisol&layout=compact&show_icons=true&theme=catppuccin_mocha)
+
+</div>
 
 ## Technical Skills
 
@@ -67,14 +85,6 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 - **User Configuration Manual** - Using tuples, guard clauses to allow users to manually configure their settings.
 
 > 📂 Every project includes a detailed README covering what was built and what was learned.
-
----
-
-## Education & Certifications
-
-**B.S. Information Technology** — University of Central Florida | May 2024
-
-**Scientific Computing with Python** — freeCodeCamp Certification | May 2026
 
 ---
 
