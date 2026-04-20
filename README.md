@@ -56,20 +56,18 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 </div>
 
-**Languages:** Python
-
-**Libraries & Frameworks:** fastAPI, SQLAlchemy, JWT Auth, Alembic, SQLite
-
-**Tools:** Git, GitHub, VS Code, Unix/Linux CLI
-
-**Core Competencies:**
-- Object-Oriented Programming (OOP)
-- Data Structures - Linked Lists, Hash Tables, Adjacency Matrices
-- Algorithms - Sorting (Merge, Quick, Selection), Searching (Binary, Dijkstra's), Graph Traversal (DFS, BFS)
-- Software Design Patterns - Strategy Pattern, Abstract Base Classes (ABC)
-- Data Validation, Regular Expressions (Regex)
-- Recursion, Backtracking, Constraint Satisfaction
-- Technical Documentation, Clean Code
+**Languages | Libraries | Frameworks | Tools:** 
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/pytest" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
 
 ---
 
