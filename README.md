@@ -18,7 +18,7 @@
 
 </div>
 
-Python Developer with a B.S. in Information Technology from the University of Central Florida (2024). Completed the **freeCodeCamp Scientific Computing with Python** certification and built **28 Python projects** independently, covering object-oriented programming, data structures, algorithms, graph theory, and software design patterns.
+Python Developer with a B.S. in Information Technology from the University of Central Florida (2024). Completed the **freeCodeCamp Scientific Computing with Python** certification and built **29 Python projects** independently, covering object-oriented programming, data structures, algorithms, graph theory, and software design patterns.
 
 Actively seeking a **Junior Python Developer** or **Junior Software Engineer** role.
 
