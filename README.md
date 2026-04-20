@@ -30,8 +30,18 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 </div>
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Umisol&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
 ![Destin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Umisol&show_icons=true&theme=catppuccin_mocha)
+
+</div>
+
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Umisol&layout=compact&show_icons=true&theme=catppuccin_mocha)
