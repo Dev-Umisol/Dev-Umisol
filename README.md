@@ -59,32 +59,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 ## Projects
 
-28 Python projects built independently. Selected highlights:
-
-**Graph Theory & Algorithms**
-- **N-Queens Solver** - DFS + backtracking constraint satisfaction, finds all valid solutions for any board size (92 solutions for n=8)
-- **Dijkstra's Shortest Path** - Weighted graph traversal using an adjacency matrix, returns shortest distance and full path between any two nodes
-- **Depth First Search** - Iterative LIFO stack-based graph traversal with disconnected graph handling
-- **Merge Sort / Quick Sort / Selection Sort** - Three sorting algorithms implemented from scratch with Big O analysis
-- **Binary Search** - O(log n) search with path tracking to visualize how the algorithm narrows to the target
-
-**Object-Oriented Programming & Design Patterns**
-- **Advanced Discount Calculator** - Strategy design pattern with ABC abstraction and type hints; three interchangeable discount strategies compete for the best price
-- **Media Catalogue** - Multi-class inheritance system with a custom exception class carrying structured error context
-- **Salary Tracker** - @property decorators, getters/setters, and exception-based promotion enforcement
-
-**Data Structures**
-- **Hash Table** — Built from scratch with Unicode hashing and chaining for collision resolution
-- **Linked List** — Pointer-based node traversal with add, remove, and traversal operations
-
-**Certification Projects (freeCodeCamp)**
-- **Tower of Hanoi** - Recursive solver using nested functions and nonlocal state; final certification project.
-- **Budget App** - Class-based ledger system with terminal bar chart generation.
-- **Polygon Area Calculator** - Rectangle/Square inheritance with method overriding and geometry methods.
-- **Build a Hash Table** - Implementation of a hash table built from scratch, with a custom hash function, collision handling via chaining, and add, remove, and lookup operations.
-- **User Configuration Manual** - Using tuples, guard clauses to allow users to manually configure their settings.
-
-> 📂 Every project includes a detailed README covering what was built and what was learned.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Umisol&repo=Personal-Finance-Tracker&show_owner=True&theme=catppuccin_mocha)](https://github.com/Dev-Umisol/Personal-Finance-Tracker)
 
 ---
 
