@@ -38,7 +38,13 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 </div>
 
+---
+
+<div align="center">
+
 ## Technical Skills
+
+</div>
 
 **Languages:** Python
 
