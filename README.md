@@ -78,6 +78,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Umisol&repo=Personal-Finance-Tracker&show_owner=True&theme=catppuccin_mocha)](https://github.com/Dev-Umisol/Personal-Finance-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Umisol&repo=GitHub-Activity-Digest-Emailer&show_owner=True&theme=catppuccin_mocha)](https://github.com/Dev-Umisol/GitHub-Activity-Digest-Emailer)
 
 ---
 
