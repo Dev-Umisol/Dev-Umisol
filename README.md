@@ -38,7 +38,7 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 <div align="center">
   
-![Destin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Umisol&show_icons=true&theme=catppuccin_mocha)
+![Destin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Umisol&show_icons=true&theme=cattpuccin_mocha)
 
 </div>
 
