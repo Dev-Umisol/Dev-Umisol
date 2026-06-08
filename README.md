@@ -36,18 +36,6 @@ Actively seeking a **Junior Python Developer** or **Junior Software Engineer** r
 
 </div>
 
-<div align="center">
-  
-![Destin's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Umisol&theme=algolia)
-
-</div>
-
-<div align="center">
-  
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Umisol&theme=algolia)
-
-</div>
-
 ---
 
 <div align="center">
